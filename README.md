@@ -1,3 +1,3 @@
 # Todoye-CoreData
 
-![Alt Text](https://giphy.com/gifs/s5bSNTqpLoS9PK4WrS)
+![Alt Text](https://media.giphy.com/media/s5bSNTqpLoS9PK4WrS/giphy.gif)
